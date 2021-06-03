@@ -1,2 +1,2 @@
 worker: python3 -m cinderella
-ps:scale worker=12
+ps:scale worker=10

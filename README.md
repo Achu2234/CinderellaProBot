@@ -9,3 +9,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 <p align="center">
   <a href="https://github.com/Sur-vivor/CinderellaProBot/fork">
     <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&st
+
+              ### <h3 align="center">DEPLOY KE HEROKU</h3>
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Achu2234/CinderellaProBot"> <img src="https://img.shields.io/badge/Click%20Untuk%20Deploy-green?style=flat&logo=heroku" width="200" height="32.45" /></a></p>
